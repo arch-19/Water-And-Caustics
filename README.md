@@ -72,3 +72,6 @@ References
 WebGL Water by Evan Wallace : Evan Wallace http://madebyevan.com/webgl-water/
 Water Caustic: GPU Gem https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch02.html
 
+### Team 
+Archana Senthilkumar
+Changchuan Shen
